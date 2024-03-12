@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+html {
+  scroll-behavior: smooth;
+  }
+ul.hr {
+  margin: 0; padding: 0; /* Обнуляем значение отступов и полей для списка меню и убираем маркеры списка меню*/
+}
+.logotip {
+  float: left;
+  padding: 20px 0 0 55px;
+}
+ul.hr li {
+  display: inline-block; /* Отображать как строчный элемент */
+  padding: 3px; /* Поля вокруг текста */
+}
+.hr {
+  text-align:  right; 
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  font-style: normal;
+}
+.blockmenu {
+  padding: 25px 52px 0 0;
+}
+.site_header {
+  position: fixed;
+  top: 0;
+  background: #007765;
+  height: 84px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.site_center {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1219px;
+}
+.menu {
+  text-decoration: none; /* Отменяем подчеркивание у ссылок */
+  color: #FFFFFF;
+}
+.menu:hover {
+  text-decoration: underline; /* Подчеркивание при наведении */
+}
+.ishere {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 72px;
+  font-weight: 500;
+  font-style: normal;
+  color: #FFFFFF;
+}
+.sect00 {
+  margin-top: 84px;
+  padding: 160px 0;
+  background: url(images/image-8.png);
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+}
+.sect01 {
+  margin-top: -64px;
+  background: #EEEEEE;
+  font-family: 'Roboto';
+  width: 100%;
+}
+.problem {
+  padding: 48px 0 0 0;
+  font-size: 64px;
+  font-weight: 500;
+  font-style: normal;
+  color: #007765;
+  text-align: center;
+}
+.id01 {
+  position:absolute;
+  margin-top: -82px;
+}
+.text01 {
+  margin-top: -48px;
+  font-size: 32px;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0 55px 92px 55px;
+}
+.sect02 {
+  margin-top: 0;
+  background: url(images/image-9.png);
+  background-size: cover;
+  background-position: center center;
+  font-family: 'Roboto';
+  width: 100%;
+}
+.text02 {
+  margin-top: 0;
+  font-size: 48px;
+  font-weight: 500;
+  font-style: italic;
+  color: #FFFFFF;
+  padding: 128px 163px 127px 163px;
+  text-align: center;
+}
+.sect03 {
+  margin-top: -64px;
+  background: #FFFFFF;
+  font-family: 'Roboto';
+  width: 100%;
+}
+.id00 {
+  position:absolute;
+  margin-top: -82px;
+}
+.text03 {
+  margin-top: -48px;
+  font-size: 32px;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0 72px 40px 218px;
+}
+.text031 {
+  margin-top: -48px;
+  font-size: 32px;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0 54px 60px 55px;
+}
+.logo02 {
+  float: left;
+  margin: -48px 0 0 55px;
+}
+.sect04 {
+  margin-top: -64px;
+  background: #EEEEEE;
+  font-family: 'Roboto';
+  width: 100%;
+  padding-bottom: 40px;
+}
+.container {
+  width: 1219px;
+  text-align: center;
+  margin-top: -8px;
+}
+.tablefoto {
+  width: 228px;
+  height: 310px;
+  text-align: center;
+  display: inline-block;
+  margin: 0 74px 0 74px;
+}
+.face {
+  display: inline;
+}
+.name1 {
+  text-align: center;
+  margin: 12px 0 0 0;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 700;
+  font-style: normal;
+  color: #007765;
+}
+.name2 {
+  text-align: center;
+  margin: 0;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+}
+.sect05 {
+  margin: 0;
+  background: #333333;
+  font-family: 'Roboto';
+  width: 100%;
+}
+.text05 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
+  padding: 48px 339px 64px 340px;
+  text-align: center;
+}
